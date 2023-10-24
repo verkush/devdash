@@ -5,7 +5,6 @@ import ErrorPage from "./pages/ErrorPage";
 import Innovation from "./pages/Innovation";
 import Login from "./pages/Login";
 
-import "./App.css";
 
 function App() {
   return (
